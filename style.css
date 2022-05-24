@@ -49,9 +49,14 @@ body {
     padding: 5px;
 }
 
+.distanziamento {
+    margin-top: 20px;
+}
+
 ul {
     list-style: none;
 }
+
 
 /* spunte ed etichette */
 
@@ -67,15 +72,18 @@ ul {
     color: green;
 }
 
-.etichettablu {
+.etichetta {
     font-size: 10px;
     border: 3px;
     border-radius: 20px;
-    border-color: #14aaf5;
     padding: 5px;
     color: white;
-    background-color: #14aaf5;
     text-decoration: none;
+}
+
+.blu {
+    background-color: #14aaf5;
+    border-color: #14aaf5;
 }
 
 /* Header */
