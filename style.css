@@ -72,6 +72,18 @@ ul {
     color: green;
 }
 
+.cerchiorosso {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+    border-radius: 50%;
+    border: 1px solid red;
+    font-size: 15px;
+    text-align: center;
+    color: red;
+}
+
 .etichetta {
     font-size: 10px;
     border: 3px;
@@ -84,6 +96,21 @@ ul {
 .blu {
     background-color: #14aaf5;
     border-color: #14aaf5;
+}
+
+.viola {
+    background-color: #ab5de6;
+    border-color: #ab5de6;
+}
+
+.arancione {
+    background-color: #ff9b01;
+    border-color: #ff9b01;
+}
+
+.verde {
+    background-color: #2cc6ab;
+    border-color: #2cc6ab;
 }
 
 /* Header */
