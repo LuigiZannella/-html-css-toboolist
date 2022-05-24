@@ -113,6 +113,16 @@ ul {
     border-color: #2cc6ab;
 }
 
+.evide {
+    background-color: #a3d117;
+    border-color: #a3d117;
+}
+
+.rosa {
+    background-color: #ec4a9d;
+    border-color: #ec4a9d;
+}
+
 /* Header */
 h1 {
     background-color: white;
