@@ -4,6 +4,10 @@
     padding: 0%;
 }
 
+h1 {
+    padding: 15px 10px;
+}
+
 /* body */
 body {
     font-family: Arial, Helvetica, sans-serif;
@@ -21,6 +25,8 @@ h3 {
     margin-right: auto;
     margin-top: 3%;
     background-color: white;
+    border-radius: 10px;
+    margin-bottom: 1px;
 }
 
 .top1 {
@@ -31,7 +37,7 @@ h3 {
     color: white;
     background-color: #14aaf5;
     text-decoration: none;
-    
+    display: inline-block;
 }
 
 .top2 {
@@ -43,6 +49,7 @@ h3 {
     color: #d2d8db;
     background-color: white;
     text-decoration: none;
+    display: inline-block;
 }
 
 .iniziolista {
@@ -51,6 +58,7 @@ h3 {
     margin-right: auto;
     background-color: white;
     padding: 5px;
+    border-radius: 10px;
 }
 
 .distanziamento {
